@@ -28,5 +28,5 @@ We use the popular [Telco Customer Churn dataset](https://github.com/aiplanethub
 3. **Training** → Point-in-time correct feature retrieval
 4. **Serving** → Online feature lookup for real-time predictions
 
-## 🚀 Quick Start
+
 
